@@ -1,0 +1,192 @@
+[
+    {
+        "nombre": "Blinding Lights",
+        "intérprete": "The Weeknd",
+        "género": "Synthwave, Pop",
+        "álbum": "After Hours",
+        "duración": "3:20",
+        "idioma": "Inglés",
+        "año": 2019,
+        "país": "Canadá"
+    },
+    {
+        "nombre": "Despacito",
+        "intérprete": "Luis Fonsi feat. Daddy Yankee",
+        "género": "Reggaeton, Latin Pop",
+        "álbum": "VIDA",
+        "duración": "3:48",
+        "idioma": "Español",
+        "año": 2017,
+        "país": "Puerto Rico"
+    },
+    {
+        "nombre": "Shape of You",
+        "intérprete": "Ed Sheeran",
+        "género": "Pop, Dancehall",
+        "álbum": "Divide",
+        "duración": "3:53",
+        "idioma": "Inglés",
+        "año": 2017,
+        "país": "Reino Unido"
+    },
+    {
+        "nombre": "Havana",
+        "intérprete": "Camila Cabello feat. Young Thug",
+        "género": "Pop, Latin Pop",
+        "álbum": "Camila",
+        "duración": "3:37",
+        "idioma": "Español/Inglés",
+        "año": 2017,
+        "país": "EE. UU."
+    },
+    {
+        "nombre": "Levitating",
+        "intérprete": "Dua Lipa feat. DaBaby",
+        "género": "Pop, Disco",
+        "álbum": "Future Nostalgia",
+        "duración": "3:23",
+        "idioma": "Inglés",
+        "año": 2020,
+        "país": "Reino Unido"
+    },
+    {
+        "nombre": "Bad Bunny",
+        "intérprete": "Tití Me Preguntó",
+        "género": "Reggaeton, Latin Trap",
+        "álbum": "Un Verano Sin Ti",
+        "duración": "4:08",
+        "idioma": "Español",
+        "año": 2022,
+        "país": "Puerto Rico"
+    },
+    {
+        "nombre": "Rolling in the Deep",
+        "intérprete": "Adele",
+        "género": "Pop, Soul",
+        "álbum": "21",
+        "duración": "3:48",
+        "idioma": "Inglés",
+        "año": 2010,
+        "país": "Reino Unido"
+    },
+    {
+        "nombre": "Gangnam Style",
+        "intérprete": "PSY",
+        "género": "K-pop, Electronic",
+        "álbum": "PSY 6 (Six Rules), Part 1",
+        "duración": "3:39",
+        "idioma": "Coreano",
+        "año": 2012,
+        "país": "Corea del Sur"
+    },
+    {
+        "nombre": "Someone Like You",
+        "intérprete": "Adele",
+        "género": "Pop, Soul",
+        "álbum": "21",
+        "duración": "4:45",
+        "idioma": "Inglés",
+        "año": 2011,
+        "país": "Reino Unido"
+    },
+    {
+        "nombre": "Vivir Mi Vida",
+        "intérprete": "Marc Anthony",
+        "género": "Salsa, Latin Pop",
+        "álbum": "3.0",
+        "duración": "4:11",
+        "idioma": "Español",
+        "año": 2013,
+        "país": "EE. UU."
+    },
+    {
+        "nombre": "Dance Monkey",
+        "intérprete": "Tones and I",
+        "género": "Pop, Electro-pop",
+        "álbum": "The Kids Are Coming",
+        "duración": "3:29",
+        "idioma": "Inglés",
+        "año": 2019,
+        "país": "Australia"
+    },
+    {
+        "nombre": "Uptown Funk",
+        "intérprete": "Mark Ronson feat. Bruno Mars",
+        "género": "Funk, Pop",
+        "álbum": "Uptown Special",
+        "duración": "4:30",
+        "idioma": "Inglés",
+        "año": 2014,
+        "país": "EE. UU."
+    },
+    {
+        "nombre": "Take On Me",
+        "intérprete": "a-ha",
+        "género": "Synthpop",
+        "álbum": "Hunting High and Low",
+        "duración": "3:46",
+        "idioma": "Inglés",
+        "año": 1985,
+        "país": "Noruega"
+    },
+    {
+        "nombre": "Bailando",
+        "intérprete": "Enrique Iglesias feat. Sean Paul, Descemer Bueno",
+        "género": "Reggaeton, Latin Pop",
+        "álbum": "Sex and Love",
+        "duración": "4:03",
+        "idioma": "Español",
+        "año": 2014,
+        "país": "España"
+    },
+    {
+        "nombre": "Call Me Maybe",
+        "intérprete": "Carly Rae Jepsen",
+        "género": "Pop",
+        "álbum": "Kiss",
+        "duración": "3:13",
+        "idioma": "Inglés",
+        "año": 2011,
+        "país": "Canadá"
+    },
+    {
+        "nombre": "Thunder",
+        "intérprete": "Imagine Dragons",
+        "género": "Pop Rock, Electropop",
+        "álbum": "Evolve",
+        "duración": "3:07",
+        "idioma": "Inglés",
+        "año": 2017,
+        "país": "EE. UU."
+    },
+    {
+        "nombre": "I Gotta Feeling",
+        "intérprete": "The Black Eyed Peas",
+        "género": "Pop, Dance-pop",
+        "álbum": "The E.N.D.",
+        "duración": "4:49",
+        "idioma": "Inglés",
+        "año": 2009,
+        "país": "EE. UU."
+    },
+    {
+        "nombre": "Taki Taki",
+        "intérprete": "DJ Snake feat. Selena Gomez, Ozuna, Cardi B",
+        "género": "Reggaeton, Latin Trap",
+        "álbum": "Carte Blanche",
+        "duración": "3:34",
+        "idioma": "Español/inglés",
+        "año": 2018,
+        "país": "Francia"
+    },
+    {
+        "nombre": "We Found Love",
+        "intérprete": "Rihanna feat. Calvin Harris",
+        "género": "Dance-pop, EDM",
+        "álbum": "Talk That Talk",
+        "duración": "3:35",
+        "idioma": "Inglés",
+        "año": 2011,
+        "país": "Barbados"
+    }
+]
